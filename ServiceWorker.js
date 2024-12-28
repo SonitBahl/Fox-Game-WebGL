@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Fox Dash-0.1";
 const contentToCache = [
-    "Build/man.loader.js",
-    "Build/man.framework.js",
-    "Build/man.data",
-    "Build/man.wasm",
+    "Build/sonit.loader.js",
+    "Build/sonit.framework.js",
+    "Build/sonit.data",
+    "Build/sonit.wasm",
     "TemplateData/style.css"
 
 ];
