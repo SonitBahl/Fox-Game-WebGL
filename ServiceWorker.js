@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Fox Dash-0.1";
 const contentToCache = [
-    "Build/New folder (2).loader.js",
-    "Build/New folder (2).framework.js",
-    "Build/New folder (2).data",
-    "Build/New folder (2).wasm",
+    "Build/man.loader.js",
+    "Build/man.framework.js",
+    "Build/man.data",
+    "Build/man.wasm",
     "TemplateData/style.css"
 
 ];
